@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "charconv": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
